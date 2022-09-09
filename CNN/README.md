@@ -18,8 +18,8 @@ Accuracy for different settings mentioned above are in  the below table:
 
 | Model      | Accuracy% |
 | ----------- | ----------- |
-| Convolutional      | 90,63       |
-| CNN + Convolution + Pooling + Batch normalization   | 90,17        |
-| CNN + Convolution + Pooling + CNN_Dropout(0.3,0.3,0.5) | 90,56        |
-|CNN + Convolution + Pooling + CNN_Dropout(0.2,0.2,0.2)   | 90,89        |
-| CNN + Convolution + Pooling + Batchnormalization + CNN_Dropout(0.2,0.2,0.2)   | 91,04        |
+| CNN + fully connected     | 90,63       |
+| CNN + fully connected + Pooling + Batch normalization   | 90,17        |
+| CNN + fully connected + Pooling + CNN_Dropout(0.3,0.3,0.5) | 90,56        |
+|CNN + fully connected + Pooling + CNN_Dropout(0.2,0.2,0.2)   | 90,89        |
+| CNN + fully connected + Pooling + Batchnormalization + CNN_Dropout(0.2,0.2,0.2)   | 91,04        |
