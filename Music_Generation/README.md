@@ -14,7 +14,7 @@ several preprocessing steps have been done on the data before training:
 ## Train
 After doing preprocessing steps, We've used LSTMs to generate Music. For this purpose, we generate notes and after that, we convert these generated notes to music with the help of the `music21` python library.
 
-Below is the loss function during training for an LSTM Network with dropout and without dropouta
+Below is the loss function during training for an LSTM Network with dropout and without dropout:
 ![loss](loss.png "loss")
 
 
