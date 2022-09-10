@@ -1,5 +1,6 @@
 # Classifying images using Convolutional Neural Networks
 
+## Decription:
 In this project, We investigate several configurations of CNNs to classify input images.
 
 ## Dataset
