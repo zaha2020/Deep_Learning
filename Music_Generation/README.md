@@ -4,11 +4,11 @@
 ## Dataset
 We've used `MIDI Music Class` for generating music using LSTMs. from various artists, we've chosen melodies from Chopin Frédéric and Mozart.
 several preprocessing steps have been done on the data before training:
-- removing rare notes
-- creating a corpus of notes
-- generating sequences
-- considering the note after the end of the sequence as a label
-- one-hot encoding for labels
+- Removing rare notes
+- Creating a corpus of notes
+- Generating sequences
+- Considering the note after the end of the sequence as a label
+- One-hot encoding for labels
 
 
 ## Train
