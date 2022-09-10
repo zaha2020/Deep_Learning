@@ -11,7 +11,7 @@ our goal is to keep the balance of this cart.
 ![environment](cartpole.png "environment")
 
 ## Training
-we train our agent for 1000 episodes
+We train our agent for 1000 episodes
 
 ## Results
 Below is the average reward for training agent for 1000 episodes  
